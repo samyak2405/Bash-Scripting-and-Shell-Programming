@@ -2,6 +2,7 @@
 ## IMPORTANT Links
 1. [Bash Guide](https://guide.bash.academy/)
 2. [Learn Linux programming](https://ryanstutorials.net/)
+3. [Cheatsheets](https://devhints.io/)
 ## 1. Scripts
 - Contains a series of commands.
 - An interpreter executes commands in the script.
